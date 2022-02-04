@@ -34,7 +34,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "ca-product-card",
+  "name": "cr-product-card",
   "author": "Camilo Romero",
   "module": "dist/ca-product-card.esm.js",
   "size-limit": [
